@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Hell GITHUB" << std::endl;
+	std::cout << "Chapter 1" << std::endl;
 	
 	return 0;
 }
